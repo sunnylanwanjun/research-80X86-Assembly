@@ -1,0 +1,2 @@
+ICO_MAIN	equ	1000h
+DLG_MAIN	equ	1

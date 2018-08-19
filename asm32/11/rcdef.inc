@@ -1,0 +1,4 @@
+ICO_MAIN	equ	1000
+DLG_MAIN	equ	100
+IDC_INFO	equ	101
+IDC_EXIT    equ 102

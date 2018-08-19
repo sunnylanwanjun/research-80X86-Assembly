@@ -1,0 +1,5 @@
+ICO_MAIN	    equ	1000
+DLG_MAIN	    equ	1000
+IDM_MAIN	    equ	1000
+IDM_EXIT	    equ	1104
+IDM_MENUHELP	equ	1300

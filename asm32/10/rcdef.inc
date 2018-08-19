@@ -1,0 +1,7 @@
+ID_TIMER1	equ	1
+ID_TIMER2	equ	2
+ICO_1		equ	1
+ICO_2		equ	2
+DLG_MAIN	equ	1
+IDC_SETICON	equ	100
+IDC_COUNT	equ	101
